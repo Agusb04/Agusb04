@@ -1,11 +1,12 @@
 # Welcome to My GitHub Profile!
 
-👋 Hi there! I'm a passionate IT Engineer student currently in my first year, eager to dive deep into the world of programming and technology.
+👋 Hi there! I'm a passionate IT Engineer student currently in my first year at University of Buenos Aires (UBA), eager to dive deep into the world of programming and technology.
 
 ## About Me
 - **Age**: 20 years old
 - **Field of Study**: IT Engineering
-- **Current Year**: 1st Year Student
+- **Current Year**: 1st Year
+- **ENGLISH B2 LEVEL CERTIFICATE ACHIEVED**
 
 ## Skills
 I’m continually expanding my skill set, and here’s what I know so far:

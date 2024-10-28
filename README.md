@@ -32,6 +32,6 @@ I’m continually expanding my skill set, and here’s what I know so far:
 
 ### Agile Methodologies
 - Experienced in working with agile methodologies, including Scrum and Kanban, to enhance project efficiency and teamwork.
-- 
+  
 ## Contact Me
 Feel free to reach out to me at: [fbeltrame@fi.uba.ar](mailto:fbeltrame@fi.uba.ar)

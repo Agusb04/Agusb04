@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-👋 Hi there! I'm a passionate IT Engineer student currently in my first year at University of Buenos Aires (UBA), eager to dive deep into the world of programming and technology.
+👋 Hi there! I'm an IT Engineer student currently in my first year at University of Buenos Aires (UBA), always eager to learn new things.
 
 ## About Me
 - **Age**: 20 years old
@@ -12,9 +12,10 @@
 I’m continually expanding my skill set, and here’s what I know so far:
 
 ### Programming Languages
-- **Python**: Proficient in writing clean and efficient code.  
+- **Python**
+- Familiar with data structures
   Paradigms: OOP and functional programming.  
-  Some frameworks: Pandas and Matplotlib.
+  Some frameworks: Pandas,Matplotlib, Flask, sqlalchemy
   
 - **C**: Familiar with system-level programming and data structures.
 

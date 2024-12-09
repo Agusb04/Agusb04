@@ -5,7 +5,7 @@
 ## About Me
 - **Age**: 20 years old
 - **Field of Study**: IT Engineering
-- **Current Year**: 1st Year
+- **Current Year**: 2nd Year
 - **ENGLISH B2 LEVEL CERTIFICATE ACHIEVED**
 
 ## Skills

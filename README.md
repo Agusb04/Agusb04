@@ -1,10 +1,10 @@
 # Welcome to My GitHub Profile!
 
-👋 Hi there! I'm an IT Engineer student currently in my first year at University of Buenos Aires (UBA), always eager to learn new things.
+👋 Hi there! I'm studying Software Engineering at University of Buenos Aires (UBA), always eager to learn new things.
 
 ## About Me
 - **Age**: 20 years old
-- **Field of Study**: IT Engineering
+- **Field of Study**: Software Engineering
 - **Current Year**: 2nd Year
 - **ENGLISH B2 LEVEL CERTIFICATE ACHIEVED**
 

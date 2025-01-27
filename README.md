@@ -12,25 +12,20 @@
 I’m continually expanding my skill set, and here’s what I know so far:
 
 ### Programming Languages
-- **Python**
-- Familiar with data structures
-  Paradigms: OOP and functional programming.  
-  Some frameworks: Pandas,Matplotlib, Flask, sqlalchemy
-  
-- **C**: Familiar with system-level programming and data structures.
-
-- **JavaScript**: Building dynamic web applications and enhancing user interfaces.
+- **Python**  
+- **C**
+- **JavaScript**
 
 ### Web Development
-- **HTML**: Creating structured and accessible web pages.
-- **CSS**: Styling websites for a better user experience.
-- **Flask**: Developing web applications using this lightweight framework.
+- **HTML**
+- **CSS**
+- **Flask**
 
 ### Database Management
-- **MySQL**: Working with databases to store and retrieve data effectively.
+- **MySQL**
 
 ### Version Control
-- **Git**: Managing projects and collaborating with others using version control.
+- **Git**
 
 ### Agile Methodologies
 - Experienced in working with agile methodologies, including Scrum and Kanban, to enhance project efficiency and teamwork.

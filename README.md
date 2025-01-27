@@ -4,8 +4,6 @@
 
 ## About Me
 - **Age**: 20 years old
-- **Field of Study**: Software Engineering
-- **Current Year**: 2nd Year
 - **ENGLISH B2 LEVEL CERTIFICATE ACHIEVED**
 
 ## Skills

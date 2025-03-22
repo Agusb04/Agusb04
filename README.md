@@ -13,6 +13,7 @@ I’m continually expanding my skill set, and here’s what I know so far:
 - **Python**  
 - **C**
 - **JavaScript**
+- **Go**
 
 ### Web Development
 - **HTML**

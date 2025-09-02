@@ -14,6 +14,7 @@ I’m continually expanding my skill set, and here’s what I know so far:
 - **C**
 - **JavaScript**
 - **Go**
+- **Java**
 
 ### Web Development
 - **HTML**

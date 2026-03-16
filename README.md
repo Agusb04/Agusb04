@@ -1,12 +1,7 @@
 # Hi, I'm Agustín Beltrame 👋
 
-3rd-year Computer Engineering student at UBA (FIUBA)
+Computer Engineering student at UBA (FIUBA), with a strong foundation in how software works from the ground up — from x86 Assembly and C memory management to algorithms, data structures, and complexity analysis. I care about understanding *why* things work, not just making them work. Currently expanding into backend systems, databases, software engineering practices, and full-stack development with React and Docker.
 
----
-
-## About me
-
-Computer Engineering student at UBA (FIUBA), with a strong foundation in how software works from the ground up — from x86 Assembly and C memory management to algorithms, data structures, and complexity analysis. I care about understanding why things work, not just making them work. Currently expanding into backend systems, containerization with Docker, and full-stack development with React. 
 ---
 
 ## Tech stack
@@ -22,6 +17,7 @@ Computer Engineering student at UBA (FIUBA), with a strong foundation in how sof
 **Tools & technologies**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)

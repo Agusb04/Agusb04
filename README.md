@@ -59,4 +59,4 @@ Full-stack order management system featuring a web application, a Flask API, and
 ## 📫 Contact
 
 * **Email:** [fbeltrame@fi.uba.ar](mailto:fbeltrame@fi.uba.ar)
-* **GitHub:** [github.com/Agusb04](https://github.com/Agusb04)
+

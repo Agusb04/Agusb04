@@ -31,7 +31,7 @@ Recreation of the classic Battle City game built using **MVC architecture**. Inc
 
 ### 📦 [Pedilo-Despues](https://github.com/Agusb04/Pedilo-Despues)
 Full-stack order management system featuring a web application, a Flask API, and a mobile app. Supports order tracking with unique IDs, real-time status updates, and QR-based promotions.
-* **Tech:** Flask, Kivy, MySQL, React.
+* **Tech:** Flask, Kivy, MySQL, Html, Css, Javascript
 
 ---
 

@@ -6,7 +6,7 @@ I build software from the ground up using **C, Go, Python, and Java**, with a st
 
 ---
 
-## 🧠 Areas of Focus
+## 🧠 Areas of Interest
 
 * **Algorithms & Data Structures** (Graph Theory & Optimization)
 * **Backend Systems Design** & Performance-oriented software
@@ -33,6 +33,10 @@ Recreation of the classic Battle City game built using **MVC architecture**. Inc
 Full-stack order management system featuring a web application, a Flask API, and a mobile app. Supports order tracking with unique IDs, real-time status updates, and QR-based promotions.
 * **Tech:** Flask, Kivy, MySQL, Html, Css, Javascript
 
+* ### 🔐 [Base64 Encoder / Decoder](https://github.com/Agusb04/base64-encoder-decoder)
+Implementation of Base64 encoding and decoding in **x86-64 assembly (NASM)** with a C interface. Reads binary files, encodes to Base64, decodes back, with correct padding handling. Built for *Organización del Computador*.
+* **Tech:** C, x86-64 Assembly (NASM), Makefile.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -53,6 +57,7 @@ Full-stack order management system featuring a web application, a Flask API, and
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ---
 

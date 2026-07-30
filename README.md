@@ -33,7 +33,7 @@ Recreation of the classic Battle City game built using **MVC architecture**. Inc
 Full-stack order management system featuring a web application, a Flask API, and a mobile app. Supports order tracking with unique IDs, real-time status updates, and QR-based promotions.
 * **Tech:** Flask, Kivy, MySQL, Html, Css, Javascript
 
-* ### 🔐 [Base64 Encoder / Decoder](https://github.com/Agusb04/base64-encoder-decoder)
+### 🔐 [Base64 Encoder / Decoder](https://github.com/Agusb04/base64-encoder-decoder)
 Implementation of Base64 encoding and decoding in **x86-64 assembly (NASM)** with a C interface. Reads binary files, encodes to Base64, decodes back, with correct padding handling. Built for *Organización del Computador*.
 * **Tech:** C, x86-64 Assembly (NASM), Makefile.
 

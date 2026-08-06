@@ -1,18 +1,6 @@
 # Hi, I'm Agustín Beltrame 👋
 
 Computer Engineering student at **UBA (FIUBA)**, focused on systems programming, algorithms, and software design.
-
-I build software from the ground up using **C, Go, Python, and Java**, with a strong emphasis on data structures, complexity analysis, and low-level system behavior. Currently expanding into backend systems, distributed architectures, and full-stack development with React and Docker.
-
----
-
-## 🧠 Areas of Interest
-
-* **Algorithms & Data Structures** (Graph Theory & Optimization)
-* **Backend Systems Design** & Performance-oriented software
-* **Low-level Programming** (C / Manual Memory Management)
-* **Software Architecture** (Clean Code & Design Patterns)
-
 ---
 
 ## 🚀 Featured Projects

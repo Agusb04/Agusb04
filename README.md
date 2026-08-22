@@ -23,12 +23,21 @@ Recreation of the classic Battle City game built using **MVC architecture**. Inc
 ### 📦 [Pedilo-Despues](https://github.com/Agusb04/Pedilo-Despues)
 Full-stack order management system featuring a web application, a Flask API, and a mobile app. Supports order tracking with unique IDs, real-time status updates, and QR-based promotions.
 * **Tech:** Flask, Kivy, MySQL, Html, Css, Javascript
-* **Key concepts:** Teamwork, Scrum, Web Page Responsive,API Rest, crud, DB, Mobile APP 
+* **Key concepts:** Teamwork, Scrum, Web Page Responsive,API Rest, crud, DB, Mobile APP
+  
 ### 🔐 [Base64 Encoder / Decoder](https://github.com/Agusb04/base64-encoder-decoder)
 Implementation of Base64 encoding and decoding in **x86-64 assembly (NASM)** with a C interface. Reads binary files, encodes to Base64, decodes back, with correct padding handling. Built for *Organización del Computador*.
 * **Tech:** C, x86-64 Assembly (NASM), Makefile.
-* **Key concepts:** Memory management, Assembly, low-level 
+* **Key concepts:** Memory management, Assembly, low-level
 
+### 💼 PSA – Marketing and Sales System
+Microservice built with Java Spring Boot, PostgreSQL, and Docker. Group project for Software Engineering 1 (FIUBA), covering the full software engineering lifecycle: scope definition, stakeholder interviews, requirements gathering, domain stories, traceability matrix, prototypes, domain model, module vision, architecture (C4 component diagrams), SQL schema, ER model, user stories, and code diagrams.
+The system is organized into two repositories corresponding to different development levels:
+Backend (Squad 1): REST API and business logic for marketing campaigns and leads CRUD.
+Frontend & integration (Tribe B): TypeScript/React frontend integrating the different squads' backends; the sales module from another tribe consumed our leads and converted them into opportunities, while we calculated campaign ROI using data from the sales backend.
+Testing done with Gherkin (DDD) based on user stories. ⚠️ All project instances were originally deployed on Render; they are no longer online.
+* **Tech:** Java, JUnit, gherkin, Typescript, css, html, Postgresql, docker
+* **Concepts**: Software Engineering, agile development, software architecture, REST API, testing, integration, collaborative teamwork.
 ---
 
 ## 🛠️ Tech Stack

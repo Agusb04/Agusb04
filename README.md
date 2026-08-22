@@ -36,7 +36,7 @@ Microservice built with **Java Spring Boot**, **PostgreSQL**, and **Docker**. Gr
 
 - **[Backend (Squad 1)](https://github.com/Agusb04/PSA-backend):** REST API and business logic for a marketing campaigns and leads CRUD.
 - **[Frontend & integration (Tribe B)](https://github.com/Agusb04/PSA-Frontend):** **TypeScript/React** frontend integrating the different squads' backends; the sales module from another tribe consumed our leads and converted them into opportunities, while we calculated campaign ROI using data from the sales backend.
-> ⚠️ All project instances were originally deployed on Render; they are no longer online.
+All project instances were originally deployed on Render; they are no longer online.
 
 **Concepts:** Software Engineering, agile development, software architecture, REST API, testing, integration, collaborative teamwork.
 

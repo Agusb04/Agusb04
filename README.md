@@ -31,13 +31,17 @@ Implementation of Base64 encoding and decoding in **x86-64 assembly (NASM)** wit
 * **Key concepts:** Memory management, Assembly, low-level
 
 ### 💼 PSA – Marketing and Sales System
-Microservice built with Java Spring Boot, PostgreSQL, and Docker. Group project for Software Engineering 1 (FIUBA), covering the full software engineering lifecycle: scope definition, stakeholder interviews, requirements gathering, domain stories, traceability matrix, prototypes, domain model, module vision, architecture (C4 component diagrams), SQL schema, ER model, user stories, and code diagrams.
+ 
+Microservice built with **Java Spring Boot**, **PostgreSQL**, and **Docker**. Group project for **Software Engineering 1 (FIUBA)**, covering the full software engineering lifecycle: scope definition, stakeholder interviews, requirements gathering, domain stories, traceability matrix, prototypes, domain model, module vision, architecture (C4 component diagrams), SQL schema, ER model, user stories, and code diagrams.
+ 
 The system is organized into two repositories corresponding to different development levels:
-Backend (Squad 1): REST API and business logic for marketing campaigns and leads CRUD.
-Frontend & integration (Tribe B): TypeScript/React frontend integrating the different squads' backends; the sales module from another tribe consumed our leads and converted them into opportunities, while we calculated campaign ROI using data from the sales backend.
-Testing done with Gherkin (DDD) based on user stories. ⚠️ All project instances were originally deployed on Render; they are no longer online.
-* **Tech:** Java, JUnit, gherkin, Typescript, css, html, Postgresql, docker
-* **Concepts**: Software Engineering, agile development, software architecture, REST API, testing, integration, collaborative teamwork.
+ 
+- **[Backend (Squad 1)](https://github.com/Agusb04/PSA-backend):** REST API and business logic for a marketing campaigns and leads CRUD.
+- **[Frontend & integration (Tribe B)](https://github.com/Agusb04/PSA-Frontend):** **TypeScript/React** frontend integrating the different squads' backends; the sales module from another tribe consumed our leads and converted them into opportunities, while we calculated campaign ROI using data from the sales backend.
+Testing done with **Gherkin (BDD)** based on user stories.
+> ⚠️ All project instances were originally deployed on Render; they are no longer online.
+**Concepts:** Software Engineering, agile development, software architecture, REST API, testing, integration, collaborative teamwork.
+
 ---
 
 ## 🛠️ Tech Stack

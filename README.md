@@ -40,6 +40,7 @@ The system is organized into two repositories corresponding to different develop
 - **[Frontend & integration (Tribe B)](https://github.com/Agusb04/PSA-Frontend):** **TypeScript/React** frontend integrating the different squads' backends; the sales module from another tribe consumed our leads and converted them into opportunities, while we calculated campaign ROI using data from the sales backend.
 Testing done with **Gherkin (BDD)** based on user stories.
 > ⚠️ All project instances were originally deployed on Render; they are no longer online.
+
 **Concepts:** Software Engineering, agile development, software architecture, REST API, testing, integration, collaborative teamwork.
 
 ---

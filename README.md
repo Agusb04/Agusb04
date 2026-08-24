@@ -9,27 +9,27 @@ Computer Engineering student at **UBA (FIUBA)**, focused on systems programming,
 System for airline route analysis modeled using **graph theory**. It computes optimal paths between cities, evaluates airport importance, handles itinerary planning with constraints, and exports routes to KML.
 * **Tech:** Python 
 * **Key concepts:** Graph algorithms, algorithmic complexity
-
+---
 ### 🛫 [Algueiza Flight System](https://github.com/Agusb04/Algueiza-Flight-System)
 Real-time flight management system based on **custom data structures** (HashMap, BST, and Heap). Supports efficient querying, time-range filtering, and priority-based operations under strict algorithmic complexity constraints.
 * **Tech:** Go.
 * **Key concepts:** Data structures, algorithmic complexity
-
+---
 ### 🕹️ [Yet Another Battle City](https://github.com/Agusb04/Yet-Another-Battle-City)
 Recreation of the classic Battle City game built using **MVC architecture**. Includes singleplayer and local co-op modes, enemy AI, power-ups, a collision system, and automated testing.
 * **Tech:** Java, JavaFX.
 * **Key concepts:** OOP, MVC, Testing, Local AI
-
+---
 ### 📦 [Pedilo-Despues](https://github.com/Agusb04/Pedilo-Despues)
 Full-stack order management system featuring a web application, a Flask API, and a mobile app. Supports order tracking with unique IDs, real-time status updates, and QR-based promotions.
 * **Tech:** Flask, Kivy, MySQL, Html, Css, Javascript
 * **Key concepts:** Teamwork, Scrum, Web Page Responsive,API Rest, crud, DB, Mobile APP
-  
+---
 ### 🔐 [Base64 Encoder / Decoder](https://github.com/Agusb04/base64-encoder-decoder)
 Implementation of Base64 encoding and decoding in **x86-64 assembly (NASM)** with a C interface. Reads binary files, encodes to Base64, decodes back, with correct padding handling. Built for *Organización del Computador*.
 * **Tech:** C, x86-64 Assembly (NASM), Makefile.
 * **Key concepts:** Memory management, Assembly, low-level
-
+---
 ### 💼 PSA – Marketing and Sales System
  
 Microservice built with **Java Spring Boot**, **PostgreSQL**, and **Docker**. Group project for **Software Engineering 1 (FIUBA)**, covering the full software engineering lifecycle: scope definition, stakeholder interviews, requirements gathering, domain stories, traceability matrix, prototypes, domain model, module vision, architecture (C4 component diagrams), SQL schema, ER model, user stories, and code diagrams. Testing done with **Gherkin (BDD)** based on user stories.

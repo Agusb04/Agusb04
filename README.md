@@ -54,7 +54,7 @@ Computer Engineering student at **UBA (FIUBA)** with strong foundations in compu
 <summary><b>🛫 Algueiza Flight System — High-Performance Flight Manager</b></summary>
 
 - Built from scratch in **Go** using custom memory-efficient data structures (**BST**, **Min/Max Heaps**, **HashMaps**).
-- Implements real-time filtering, priority queues, and range queries under strict $O(\log n)$ runtime targets.
+- Implements real-time filtering, priority queues, and range queries 
 </details>
 
 <details>

@@ -79,7 +79,7 @@ Computer Engineering student at **UBA (FIUBA)** with strong foundations in compu
 <details>
 <summary><b>🕹️ Yet Another Battle City — Desktop Game Engine</b></summary>
 
-- Full recreation of Battle City using clean **MVC design principles**.
+- Full recreation of Battle City using clean **design principles**.
 - Features singleplayer and local co-op, enemy behavior scripts, collision detection, and unit tests.
 </details>
 

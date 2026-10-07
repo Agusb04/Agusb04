@@ -4,14 +4,6 @@ Computer Engineering student at **UBA (FIUBA)** with strong foundations in compu
 
 ---
 
-## 💡 About Me
-
-- 🎓 **Education:** Pursuing Computer Engineering at Universidad de Buenos Aires (FIUBA).
-- 🧠 **Focus:** Algorithmic performance, software architecture, low-level mechanics, and autonomous agentic systems.
-- 📬 **Contact:** [fbeltrame@fi.uba.ar](mailto:fbeltrame@fi.uba.ar)
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
